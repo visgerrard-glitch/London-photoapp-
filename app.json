@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "London Photo Challenge",
+    "slug": "london-photo-challenge",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.londonfieldwork.photochallenge",
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "location"
+        ],
+        "NSLocationWhenInUseUsageDescription": "Toont foto-opdrachten bij jouw locatie in Londen.",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "Controleert tijdens de excursie ook met vergrendeld scherm of je bij een foto-opdracht in de buurt bent.",
+        "NSUserNotificationsUsageDescription": "Stuurt een lokale herinnering bij een foto-opdracht."
+      }
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "Toont foto-opdrachten bij jouw locatie in Londen.",
+          "locationAlwaysAndWhenInUsePermission": "Controleert ook op de achtergrond of je bij een foto-opdracht bent.",
+          "isIosBackgroundLocationEnabled": true
+        }
+      ],
+      "expo-notifications"
+    ]
+  }
+}

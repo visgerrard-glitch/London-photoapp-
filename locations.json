@@ -1,0 +1,425 @@
+[
+  {
+    "id": 1,
+    "name": "Tower Bridge",
+    "address": "Tower Bridge, London",
+    "challenge": "Use forced perspective to 'lift' the bridge with your hands.",
+    "category": "South Bank",
+    "lat": 51.5055,
+    "lon": -0.0754
+  },
+  {
+    "id": 2,
+    "name": "The Shard",
+    "address": "32 London Bridge Street, London",
+    "challenge": "Forced perspective: pinch the tip of the Shard between two fingers.",
+    "category": "South Bank",
+    "lat": 51.5045,
+    "lon": -0.0865
+  },
+  {
+    "id": 3,
+    "name": "Golden Hinde",
+    "address": "St Mary Overie Dock, Cathedral Street, London",
+    "challenge": "Strike a 'Land ho!' pose, all pointing at the horizon.",
+    "category": "South Bank",
+    "lat": 51.506,
+    "lon": -0.0903
+  },
+  {
+    "id": 4,
+    "name": "Shakespeare's Globe",
+    "address": "21 New Globe Walk, London",
+    "challenge": "Perform a dramatic Shakespeare moment in front of the theatre.",
+    "category": "South Bank",
+    "lat": 51.5081,
+    "lon": -0.0972
+  },
+  {
+    "id": 5,
+    "name": "Tate Modern",
+    "address": "Bankside, London",
+    "challenge": "Become a living art installation in front of the chimney.",
+    "category": "South Bank",
+    "lat": 51.5076,
+    "lon": -0.0994
+  },
+  {
+    "id": 6,
+    "name": "Royal Festival Hall",
+    "address": "Belvedere Road, London",
+    "challenge": "Make a 'hopeful future' pose on the riverside walk.",
+    "category": "South Bank",
+    "lat": 51.5059,
+    "lon": -0.1164
+  },
+  {
+    "id": 7,
+    "name": "Westminster Abbey",
+    "address": "20 Dean's Yard, London",
+    "challenge": "Crown one team member with a paper crown in front of the west entrance.",
+    "category": "Westminster I",
+    "lat": 51.4993,
+    "lon": -0.1273
+  },
+  {
+    "id": 8,
+    "name": "Houses of Parliament / Elizabeth Tower",
+    "address": "Parliament Square, London",
+    "challenge": "One member 'guards the gunpowder' while the others catch them, with the clock tower behind you.",
+    "category": "Westminster I",
+    "lat": 51.5007,
+    "lon": -0.1246
+  },
+  {
+    "id": 9,
+    "name": "Westminster Hall",
+    "address": "Palace of Westminster, London",
+    "challenge": "Act out a courtroom: one judge, one prisoner, the rest are the jury.",
+    "category": "Westminster I",
+    "lat": 51.4999,
+    "lon": -0.1248
+  },
+  {
+    "id": 10,
+    "name": "Oliver Cromwell statue",
+    "address": "Parliament Square, London",
+    "challenge": "Hero supporters thumbs up; villain supporters thumbs down.",
+    "category": "Westminster I",
+    "lat": 51.4996,
+    "lon": -0.1247
+  },
+  {
+    "id": 11,
+    "name": "Millicent Fawcett statue",
+    "address": "Parliament Square, London",
+    "challenge": "Hold up a handmade banner with the suffragette motto.",
+    "category": "Westminster I",
+    "lat": 51.5002,
+    "lon": -0.1263
+  },
+  {
+    "id": 12,
+    "name": "Westminster Bridge",
+    "address": "Westminster Bridge, London",
+    "challenge": "Team photo halfway across with Parliament behind you.",
+    "category": "Westminster I",
+    "lat": 51.5009,
+    "lon": -0.1217
+  },
+  {
+    "id": 13,
+    "name": "Churchill War Rooms",
+    "address": "King Charles Street, London",
+    "challenge": "Everyone makes Churchill's famous V-for-Victory sign.",
+    "category": "Westminster I",
+    "lat": 51.5022,
+    "lon": -0.1294
+  },
+  {
+    "id": 14,
+    "name": "British Museum",
+    "address": "Great Russell Street, London",
+    "challenge": "The team as living columns in front of the entrance.",
+    "category": "West London",
+    "lat": 51.5194,
+    "lon": -0.127
+  },
+  {
+    "id": 15,
+    "name": "Foundling Museum",
+    "address": "40 Brunswick Square, London",
+    "challenge": "Hold up a token your team designed on paper.",
+    "category": "West London",
+    "lat": 51.5252,
+    "lon": -0.1214
+  },
+  {
+    "id": 16,
+    "name": "Charles Dickens Museum",
+    "address": "48 Doughty Street, London",
+    "challenge": "Act out 'Please, sir, I want some more' with an empty cup.",
+    "category": "West London",
+    "lat": 51.5225,
+    "lon": -0.1188
+  },
+  {
+    "id": 17,
+    "name": "Handel & Hendrix in London",
+    "address": "23–25 Brook Street, London",
+    "challenge": "Half the team air-conducts; half plays air guitar.",
+    "category": "West London",
+    "lat": 51.5131,
+    "lon": -0.1484
+  },
+  {
+    "id": 18,
+    "name": "Baker Street station",
+    "address": "Baker Street, London",
+    "challenge": "Team photo on the old Victorian platform with the roundel.",
+    "category": "West London",
+    "lat": 51.5225,
+    "lon": -0.1571
+  },
+  {
+    "id": 19,
+    "name": "Abbey Road Studios",
+    "address": "3 Abbey Road, London",
+    "challenge": "Recreate the famous zebra-crossing walk, only when the road is clear and safe.",
+    "category": "West London",
+    "lat": 51.5319,
+    "lon": -0.1784
+  },
+  {
+    "id": 20,
+    "name": "7 July Memorial",
+    "address": "Hyde Park, London",
+    "challenge": "A quiet, respectful photo; no poses.",
+    "category": "West London",
+    "lat": 51.5071,
+    "lon": -0.1646
+  },
+  {
+    "id": 21,
+    "name": "Kensington Palace",
+    "address": "Kensington Gardens, London",
+    "challenge": "Team photo with the statue of the Dutch king William III.",
+    "category": "West London",
+    "lat": 51.5054,
+    "lon": -0.1877
+  },
+  {
+    "id": 22,
+    "name": "South Kensington / Albert Memorial",
+    "address": "Kensington Gore, London",
+    "challenge": "Bow to Prince Albert at the Albert Memorial.",
+    "category": "West London",
+    "lat": 51.5027,
+    "lon": -0.177
+  },
+  {
+    "id": 23,
+    "name": "Banqueting House",
+    "address": "Whitehall, London",
+    "challenge": "A serious photo of the team looking up at the bust of Charles I.",
+    "category": "Westminster II",
+    "lat": 51.5046,
+    "lon": -0.1263
+  },
+  {
+    "id": 24,
+    "name": "Charles I Island / Charing Cross",
+    "address": "Trafalgar Square, London",
+    "challenge": "Everyone points in the direction of Gouda; write down your estimate of the distance.",
+    "category": "Westminster II",
+    "lat": 51.5078,
+    "lon": -0.1281
+  },
+  {
+    "id": 25,
+    "name": "National Portrait Gallery",
+    "address": "St Martin's Place, London",
+    "challenge": "Copy Henry VIII's famous hands-on-hips pose on the steps.",
+    "category": "Westminster II",
+    "lat": 51.5094,
+    "lon": -0.1282
+  },
+  {
+    "id": 26,
+    "name": "St James's Palace",
+    "address": "Marlborough Road, London",
+    "challenge": "Stand to attention like royal guards (at a respectful distance from the real ones).",
+    "category": "Westminster II",
+    "lat": 51.5057,
+    "lon": -0.1396
+  },
+  {
+    "id": 27,
+    "name": "St Martin-in-the-Fields",
+    "address": "Trafalgar Square, London",
+    "challenge": "Sit on the steps and 'listen' to an imaginary concert with the steeple behind you.",
+    "category": "Westminster II",
+    "lat": 51.5088,
+    "lon": -0.1268
+  },
+  {
+    "id": 28,
+    "name": "Greenwich / Royal Observatory",
+    "address": "Blackheath Avenue, Greenwich, London",
+    "challenge": "Stand with one foot on each side of the Prime Meridian line.",
+    "category": "Bonus",
+    "lat": 51.477,
+    "lon": -0.0005
+  },
+  {
+    "id": 29,
+    "name": "Hampton Court Palace",
+    "address": "East Molesey, Surrey",
+    "challenge": "A royal-banquet pose in front of the main gate.",
+    "category": "Bonus",
+    "lat": 51.4036,
+    "lon": -0.3375
+  },
+  {
+    "id": 30,
+    "name": "Queen Elizabeth Olympic Park / Orbit",
+    "address": "Stratford, London",
+    "challenge": "Form the five Olympic rings with your arms under the red Orbit tower.",
+    "category": "Bonus",
+    "lat": 51.5385,
+    "lon": -0.0166
+  },
+  {
+    "id": 31,
+    "name": "Windrush Square",
+    "address": "Brixton, London",
+    "challenge": "Team photo in the square by the Black Cultural Archives.",
+    "category": "Bonus",
+    "lat": 51.461,
+    "lon": -0.1157
+  },
+  {
+    "id": 32,
+    "name": "St Mary's Church, Putney",
+    "address": "Putney High Street, London",
+    "challenge": "A debating pose by the church, with the river behind you.",
+    "category": "Bonus",
+    "lat": 51.4646,
+    "lon": -0.2136
+  },
+  {
+    "id": 33,
+    "name": "Elizabeth line",
+    "address": "Farringdon Station, Cowcross Street, London",
+    "challenge": "Team photo on the platform under the purple roundel (only where photography is permitted).",
+    "category": "Bonus",
+    "lat": 51.5202,
+    "lon": -0.1049
+  },
+  {
+    "id": 34,
+    "name": "Temple Church",
+    "address": "Temple, London",
+    "challenge": "Pose like the stone knights lying on their tombs.",
+    "category": "The City I",
+    "lat": 51.5132,
+    "lon": -0.1108
+  },
+  {
+    "id": 35,
+    "name": "Dr Johnson's House",
+    "address": "17 Gough Square, London",
+    "challenge": "Team photo with the statue of Hodge, Johnson's cat.",
+    "category": "The City I",
+    "lat": 51.5143,
+    "lon": -0.1079
+  },
+  {
+    "id": 36,
+    "name": "St Paul's Cathedral",
+    "address": "St Paul's Churchyard, London",
+    "challenge": "Recreate the Blitz: the team 'holds up' the dome with outstretched arms.",
+    "category": "The City I",
+    "lat": 51.5138,
+    "lon": -0.0984
+  },
+  {
+    "id": 37,
+    "name": "St Bartholomew the Great",
+    "address": "West Smithfield, London",
+    "challenge": "Team photo under the Tudor gatehouse.",
+    "category": "The City I",
+    "lat": 51.518,
+    "lon": -0.1005
+  },
+  {
+    "id": 38,
+    "name": "Roman Wall / St Alphage Garden",
+    "address": "Noble Street, London",
+    "challenge": "Stand on the marked line as Roman gladiators.",
+    "category": "The City I",
+    "lat": 51.5182,
+    "lon": -0.0957
+  },
+  {
+    "id": 39,
+    "name": "Jewry",
+    "address": "Old Jewry, London",
+    "challenge": "Team photo with the street sign.",
+    "category": "The City I",
+    "lat": 51.5148,
+    "lon": -0.091
+  },
+  {
+    "id": 40,
+    "name": "Lombard Street",
+    "address": "Lombard Street, London",
+    "challenge": "Everyone makes a grasshopper pose under the golden grasshopper sign.",
+    "category": "The City I",
+    "lat": 51.512,
+    "lon": -0.0871
+  },
+  {
+    "id": 41,
+    "name": "Jamaica Wine House",
+    "address": "St Michael's Alley, London",
+    "challenge": "A 'coffee toast' with takeaway cups.",
+    "category": "The City I",
+    "lat": 51.5122,
+    "lon": -0.0844
+  },
+  {
+    "id": 42,
+    "name": "Monument / Pudding Lane",
+    "address": "Fish Street Hill, London",
+    "challenge": "Hold a loaf of bread under the Pudding Lane street sign.",
+    "category": "The City II",
+    "lat": 51.5102,
+    "lon": -0.0858
+  },
+  {
+    "id": 43,
+    "name": "Bevis Marks Synagogue",
+    "address": "Bevis Marks, London",
+    "challenge": "A quiet, respectful team photo outside.",
+    "category": "The City II",
+    "lat": 51.5147,
+    "lon": -0.0792
+  },
+  {
+    "id": 44,
+    "name": "Spitalfields / Fournier Street",
+    "address": "Fournier Street, London",
+    "challenge": "Pretend to weave on an invisible loom in front of an old house.",
+    "category": "The City II",
+    "lat": 51.5194,
+    "lon": -0.0743
+  },
+  {
+    "id": 45,
+    "name": "Roman Wall / Tower Hill",
+    "address": "Tower Hill, London",
+    "challenge": "'Defend' the wall next to the statue of the emperor.",
+    "category": "The City II",
+    "lat": 51.5095,
+    "lon": -0.0764
+  },
+  {
+    "id": 46,
+    "name": "Tower of London",
+    "address": "Tower Wharf, London",
+    "challenge": "Team on Tower Wharf with the White Tower behind you; with a Yeoman Warder if they agree.",
+    "category": "The City II",
+    "lat": 51.5081,
+    "lon": -0.0759
+  },
+  {
+    "id": 47,
+    "name": "St Bride's Church",
+    "address": "Fleet Street, London",
+    "challenge": "Stack yourselves by height like a tiered wedding cake, with the steeple behind you.",
+    "category": "The City II",
+    "lat": 51.5141,
+    "lon": -0.1052
+  }
+]
